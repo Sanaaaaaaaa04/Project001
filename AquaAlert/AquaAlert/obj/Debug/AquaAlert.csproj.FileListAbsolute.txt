@@ -1,0 +1,5 @@
+c:\users\123sa\onedrive\documents\visual studio 2010\Projects\AquaAlert\AquaAlert\bin\AquaAlert.dll
+c:\users\123sa\onedrive\documents\visual studio 2010\Projects\AquaAlert\AquaAlert\bin\AquaAlert.pdb
+c:\users\123sa\onedrive\documents\visual studio 2010\Projects\AquaAlert\AquaAlert\obj\Debug\AquaAlert.dll
+c:\users\123sa\onedrive\documents\visual studio 2010\Projects\AquaAlert\AquaAlert\obj\Debug\AquaAlert.pdb
+C:\Users\123sa\onedrive\documents\visual studio 2010\Projects\AquaAlert\AquaAlert\obj\Debug\AquaAlert.csprojResolveAssemblyReference.cache
